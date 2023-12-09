@@ -50,5 +50,14 @@
           "lore": "Brad was actually my kitchen knife turned into a sacred Relic, he's still really good at cutting bread",
           "image": "none"
       }
+  ],
+    "players": [
+      {
+        "id": 1,
+        "name": "Jason",
+        "type": "Vagabond",
+        "morality": "Lawful-Neutral",
+        "image": "none"
+      }
   ]
 }
