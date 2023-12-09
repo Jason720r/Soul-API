@@ -1,0 +1,54 @@
+{
+  "songs": [
+      {
+          "id": 1,
+          "title": "Your Blood",
+          "artist": "AURORA",
+          "in_band": false,
+          "link": "https://youtu.be/hUxmu4rKdGU?si=-XGKiUpoq744ddyU",
+          "image": "none"
+      },
+      {
+          "id": 2,
+          "title": "Sad Boys",
+          "artist": "Dazey and the Scouts",
+          "in_band": true,
+          "link": "https://youtu.be/u3yTxfLxWZc?si=LgbeexY4a3m8L5IK",
+          "image": "none"
+      },
+      {
+          "id": 3,
+          "title": "Take on Me",
+          "artist": "a-ha",
+          "in_band": false,
+          "link": "https://youtu.be/djV11Xbc914?si=cFV5gkRy-mgmJM7k",
+          "image": "none"
+      }
+  ],
+  "bosses": [
+      {
+          "id": 1,
+          "title": "Ed the Scourge",
+          "type": "Dark-Fire",
+          "health": 1000,
+          "lore": "Before sliced bread, Ed was Scourging, before water was wet, Ed was Scourging, before the creation of these Forsaken Lands, Ed was Scourging",
+          "image": "none"
+      },
+      {
+          "id": 2,
+          "title": "Zullie, Witch of the West",
+          "type": "Hell",
+          "health": 4000,
+          "lore": "Once a simple scholar in pursuit of the knowledge of Chaos Sorcery, found herself overcome with Hot Cheeto Fury, as Chaos was always Cheetos....",
+          "image": "none"
+      },
+      {
+          "id": 3,
+          "title": "BradBrandt",
+          "type": "Relic",
+          "health": 100000,
+          "lore": "Brad was actually my kitchen knife turned into a sacred Relic, he's still really good at cutting bread",
+          "image": "none"
+      }
+  ]
+}
