@@ -57,35 +57,40 @@
         "name": "Jason",
         "type": "Vagabond",
         "morality": "Lawful-Neutral",
-        "image": "none"
+        "image": "none",
+        "lore": "oo"
       },
       {
         "id": 2,
         "name": "Abram",
         "type": "Brawler",
         "morality": "Chaotic-Good",
-        "image": "none"
+        "image": "none",
+        "lore": "oo"
       },
       {
         "id": 3,
         "name": "Jackson",
         "type": "Enforcer",
         "morality": "Lawful-Good",
-        "image": "none"
+        "image": "none",
+        "lore": "oo"
       },
       {
         "id": 4,
         "name": "Burger Queen",
         "type": "Crawler",
         "morality": "Chaotic-Neutral",
-        "image": "none"
+        "image": "none",
+        "lore": "oo"
       },
       {
         "id": 5,
         "name": "Nola Granola",
         "type": "Summoner",
         "morality": "Lawful-Evil",
-        "image": "none"
+        "image": "none",
+        "lore": "oo"
       }
   ],
     "weapons": [
