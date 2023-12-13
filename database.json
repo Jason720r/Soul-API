@@ -65,7 +65,7 @@
         "name": "Charlemagne of Thad Castle, the True PolterGuice",
         "type": "Brawler",
         "morality": "Chaotic-Good",
-        "image": "http://www.avatarsinpixels.com/minipix/eyJCb2R5IjoiMiIsIk1vdXRoIjoiMTciLCJTaG9lcyI6IjIiLCJQYW50cyI6IjEiLCJUb3AiOiI3IiwiSmFja2V0IjoiNyIsIkNhcGUiOiI1IiwiSGFpciI6IjE5Iiwic2tpblRvbmUiOiJmMmNkYjYiLCJleWVzVG9uZSI6IjY0MzdjZiIsIm1hc2tUb25lIjoiMTkzNzdkIiwicGFudHNUb25lIjoiNDQ0NDQ0IiwidG9wVG9uZSI6IjE5Mzc3ZCIsInNob2VzVG9uZSI6IjE5Mzc3ZCIsImNhcGVUb25lIjoiMTkzNzdkIn0=/1/show.png",
+        "image": "http://www.avatarsinpixels.com/minipix/eyJXaW5ncyI6IjMiLCJCb2R5IjoiMiIsIk1vdXRoIjoiMTMiLCJTaG9lcyI6IjUiLCJHbG92ZXMiOiIxIiwiUGFudHMiOiIxIiwiVG9wIjoiNyIsIkphY2tldCI6IjMiLCJDYXBlIjoiNSIsIkhhaXIiOiIxOSIsInNraW5Ub25lIjoiZjJjZGI2IiwiZXllc1RvbmUiOiI3MDI2MzIiLCJtYXNrVG9uZSI6IjE5Mzc3ZCIsInBhbnRzVG9uZSI6IjQ0NDQ0NCIsInRvcFRvbmUiOiI0NDQ0NDQiLCJ3aW5nc1RvbmUiOiI0ODViYmYiLCJ3aW5nc1RvbmUyIjoiMTkzNzdkIiwic2hvZXNUb25lIjoiMTcyYzVlIiwiY2FwZVRvbmUiOiIxNTI0NDYiLCJqYWNrZXRUb25lIjoiNzAyNjMyIiwiamFja2V0VG9uZTIiOiJlZWVlZWUifQ==/1/show.png",
         "lore": ""
       },
       {
@@ -74,7 +74,7 @@
         "type": "Enforcer",
         "morality": "Lawful-Good",
         "image": "http://www.avatarsinpixels.com/minipix/eyJDYXBlQmFjayI6IjIiLCJFeWVzIjoiMjYiLCJNb3V0aCI6IjQiLCJTaG9lcyI6IjEiLCJQYW50cyI6IjIiLCJUb3AiOiIxMyIsIkJlbHQiOiIxIiwiSGFpciI6IjE2Iiwic2tpblRvbmUiOiJmM2IwODQiLCJoYWlyVG9uZSI6Ijc4MzkzYiIsInRvcFRvbmUiOiIwMDAwMDAiLCJzaG9lc1RvbmUiOiJlZWVlZWUiLCJjYXBlVG9uZSI6IjFlMTU1MSJ9/1/show.png",
-        "lore": ""
+        "lore": "A man of simple desire, he is a terror to others who partake in un-tasteful activities. As he says:'I stand as the sentinel against solitary indulgence, guiding souls toward the teasing brink of temptation' Very few know his true intentions..."
       },
       {
         "id": 4,
@@ -82,7 +82,7 @@
         "type": "Crawler",
         "morality": "Chaotic-Neutral",
         "image": "http://www.avatarsinpixels.com/minipix/eyJDYXBlQmFjayI6IjIiLCJCb2R5IjoiMSIsIkV5ZXMiOiIyOCIsIlNvY2tzIjoiMSIsIkdsb3ZlcyI6IjQiLCJQYW50cyI6IjUiLCJUb3AiOiIxNiIsIkNhcGUiOiI1IiwiSGFpciI6IjQiLCJHbGFzc2VzIjoiMTAiLCJoYWlyVG9uZSI6ImY0ODliNiIsInBhbnRzVG9uZSI6ImVmMmYwMCIsInRvcFRvbmUiOiJlZjJmMDAiLCJzb2Nrc1RvbmUiOiJlZjJmMDAiLCJnbG92ZXNUb25lIjoiNDk2MmY5IiwiZ2xvdmVzVG9uZTIiOiI0OTYyZjkiLCJjYXBlVG9uZSI6IjQ5NjJmOSJ9/1/show.png",
-        "lore": ""
+        "lore": "Nurtured beneath the watery wings of a raucous shrimp congregation for a span of sixteen lunar cycles, the Burger Queen imbibed the enigmatic wisdom of stoicism. This mysterious avenger, shrouded in caped mystique, has graced the annals of Brandtrun's history on countless occasions, with a conspicuous appearance etched most notably in the saga of the fateful 1986 Challenger's celestial explosion."
       },
       {
         "id": 5,
@@ -105,8 +105,16 @@
         "name": "Ross, The Optimized Lifter",
         "type": "Gym Bro",
         "morality": "Gym Bro",
-        "image": "http://www.avatarsinpixels.com/minipix/eyJXaW5ncyI6IjQiLCJCb2R5IjoiMSIsIkV5ZXMiOiIyIiwiTW91dGgiOiIxNyIsIlVuZGVyd2VhciI6IjYiLCJTaG9lcyI6IjIiLCJHbG92ZXMiOiIzIiwiSmFja2V0IjoiNyIsIkhhaXIiOiIxNyIsImV5ZXNUb25lIjoiYTYyODhlIiwiaGFpclRvbmUiOiI3NDNlMTMiLCJ1bmRlcndlYXJUb25lIjoiMDcyYThlIiwidW5kZXJ3ZWFyVG9uZTIiOiJkYmRkMDAiLCJ3aW5nc1RvbmUiOiJmNmM0ZjAiLCJ3aW5nc1RvbmUyIjoiZGJkZDAwIiwic2hvZXNUb25lIjoiZGJkZDAwIiwiZ2xvdmVzVG9uZSI6ImRiZGQwMCIsImphY2tldFRvbmUiOiJjODRiY2UifQ==/1/show.png",
-        "lore": ""
+        "image": "http://www.avatarsinpixels.com/minipix/eyJIYWlyTG93ZXIiOiIxNSIsIkNhcGVCYWNrIjoiNiIsIkJvZHkiOiIxIiwiRXllcyI6IjIiLCJNb3V0aCI6IjQiLCJVbmRlcndlYXIiOiI2IiwiU2hvZXMiOiIyIiwiR2xvdmVzIjoiMyIsIlBhbnRzIjoiMSIsIlRvcCI6IjEzIiwiSmFja2V0IjoiNiIsIkhhaXIiOiIxNyIsImV5ZXNUb25lIjoiM2E4YzQ5IiwiaGFpclRvbmUiOiI1OTJmMGYiLCJ1bmRlcndlYXJUb25lIjoiMzg0YTdjIiwidW5kZXJ3ZWFyVG9uZTIiOiJiMDJkMzYiLCJwYW50c1RvbmUiOiI0NDQ0NDQiLCJ0b3BUb25lIjoiMzg0YTdjIiwid2luZ3NUb25lIjoiYWVhNWM3Iiwid2luZ3NUb25lMiI6ImRiZGQwMCIsInNob2VzVG9uZSI6IjM4NGE3YyIsImdsb3Zlc1RvbmUiOiIzODRhN2MiLCJjYXBlVG9uZTIiOiJiYWRiZWQiLCJqYWNrZXRUb25lIjoiYTA4NGU4IiwiamFja2V0VG9uZTIiOiJiYWRiZWQifQ==/1/show.png",
+        "lore": "A lifter of unbeign origins, most agree that he is 'Solid as stone, every hour, every day'..."
+      },
+      {
+        "id": 8,
+        "name": "???",
+        "type": "???",
+        "morality": "???",
+        "image": "http://www.avatarsinpixels.com/minipix/eyJIYWlyTG93ZXIiOiI4IiwiQ2FwZUJhY2siOiIzIiwiQm9keSI6IjMiLCJFeWVzIjoiNSIsIk1vdXRoIjoiMTgiLCJTb2NrcyI6IjE0IiwiUGFudHMiOiIxIiwiQ2FwZSI6IjMiLCJIYWlyIjoiMSIsIkdsYXNzZXMiOiIxMSIsInNraW5Ub25lIjoiZDNjMmI3IiwiaGFpclRvbmUiOiI3MTcxNzEiLCJwYW50c1RvbmUiOiI0NDQ0NDQifQ==/1/show.png",
+        "lore": "Let it sleep."
       }
   ],
     "weapons": [
