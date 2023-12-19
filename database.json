@@ -122,7 +122,22 @@
         "id": 1,
         "name": "Silent Rush",
         "damage": 9000,
-        "playerId": 1
+        "playerId": 1,
+        "image": "none"
+      },
+      {
+        "id": 2,
+        "name": "Yhorm's Toilet Seat",
+        "damage": 200,
+        "playerId": null,
+        "image": "none"
+      },
+      {
+        "id": 3,
+        "name": "Chi-Chi",
+        "damage": 700,
+        "playerId": 5,
+        "image": "none"
       }
     ]
 }
