@@ -138,6 +138,20 @@
         "damage": 700,
         "playerId": 5,
         "image": "none"
+      },
+      {
+        "id": 4,
+        "name": "MoonVeil Katana",
+        "damage": 450,
+        "playerId": 2,
+        "image": "none"
+      },
+      {
+        "id": 5,
+        "name": "Mclure's Ultra Great Sword",
+        "damage": 1000,
+        "playerId": 3,
+        "image": "none"
       }
     ]
 }
