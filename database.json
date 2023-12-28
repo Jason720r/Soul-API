@@ -58,7 +58,9 @@
         "type": "Vagabond",
         "morality": "Lawful-Neutral",
         "image": "http://www.avatarsinpixels.com/minipix/eyJXaW5ncyI6IjMiLCJIYWlyTG93ZXIiOiIyMCIsIkJvZHkiOiIxIiwiRXllcyI6IjQiLCJNb3V0aCI6IjQiLCJVbmRlcndlYXIiOiI0IiwiU2hvZXMiOiI1IiwiR2xvdmVzIjoiMyIsIlBhbnRzIjoiMiIsIkphY2tldCI6IjYiLCJOZWNrIjoiMSIsIkhhaXIiOiI2IiwiSGF0IjoiNCIsImV5ZXNUb25lIjoiYzY5NjFjIiwiZXllc1RvbmUyIjoiYWFjYWQxIiwibWFza1RvbmUiOiIyZTVhNDQiLCJ1bmRlcndlYXJUb25lIjoiMjI0MDA4IiwicGFudHNUb25lIjoiNDQ0NDQ0IiwidG9wVG9uZSI6IjI2ODc1NiIsIndpbmdzVG9uZSI6IjdmNDQ0NCIsIndpbmdzVG9uZTIiOiI4ZTM1MzUiLCJzaG9lc1RvbmUiOiJjNjk2MWMiLCJnbG92ZXNUb25lIjoiYzM4ZDQwIiwiaGF0VG9uZSI6IjM3NTM2ZSIsImhhdFRvbmUyIjoiYzM4ZDQwIiwiamFja2V0VG9uZSI6ImQyZDJkMiIsIm5lY2tUb25lIjoiYzM4ZDQwIn0=/1/show.png",
-        "lore": ""
+        "lore": "",
+        "damage":10,
+        "health":60
       },
       {
         "id": 2,
@@ -66,7 +68,9 @@
         "type": "Brawler",
         "morality": "Chaotic-Good",
         "image": "http://www.avatarsinpixels.com/minipix/eyJXaW5ncyI6IjMiLCJCb2R5IjoiMiIsIk1vdXRoIjoiMTMiLCJTaG9lcyI6IjUiLCJHbG92ZXMiOiIxIiwiUGFudHMiOiIxIiwiVG9wIjoiNyIsIkphY2tldCI6IjMiLCJDYXBlIjoiNSIsIkhhaXIiOiIxOSIsInNraW5Ub25lIjoiZjJjZGI2IiwiZXllc1RvbmUiOiI3MDI2MzIiLCJtYXNrVG9uZSI6IjE5Mzc3ZCIsInBhbnRzVG9uZSI6IjQ0NDQ0NCIsInRvcFRvbmUiOiI0NDQ0NDQiLCJ3aW5nc1RvbmUiOiI0ODViYmYiLCJ3aW5nc1RvbmUyIjoiMTkzNzdkIiwic2hvZXNUb25lIjoiMTcyYzVlIiwiY2FwZVRvbmUiOiIxNTI0NDYiLCJqYWNrZXRUb25lIjoiNzAyNjMyIiwiamFja2V0VG9uZTIiOiJlZWVlZWUifQ==/1/show.png",
-        "lore": ""
+        "lore": "",
+        "damage":10,
+        "health":60
       },
       {
         "id": 3,
@@ -74,7 +78,9 @@
         "type": "Enforcer",
         "morality": "Lawful-Good",
         "image": "http://www.avatarsinpixels.com/minipix/eyJDYXBlQmFjayI6IjIiLCJFeWVzIjoiMjYiLCJNb3V0aCI6IjQiLCJTaG9lcyI6IjEiLCJQYW50cyI6IjIiLCJUb3AiOiIxMyIsIkJlbHQiOiIxIiwiSGFpciI6IjE2Iiwic2tpblRvbmUiOiJmM2IwODQiLCJoYWlyVG9uZSI6Ijc4MzkzYiIsInRvcFRvbmUiOiIwMDAwMDAiLCJzaG9lc1RvbmUiOiJlZWVlZWUiLCJjYXBlVG9uZSI6IjFlMTU1MSJ9/1/show.png",
-        "lore": "A man of simple desire, he is a terror to others who partake in un-tasteful activities. As he says:'I stand as the sentinel against solitary indulgence, guiding souls toward the teasing brink of temptation' Very few know his true intentions..."
+        "lore": "A man of simple desire, he is a terror to others who partake in un-tasteful activities. As he says:'I stand as the sentinel against solitary indulgence, guiding souls toward the teasing brink of temptation' Very few know his true intentions...",
+        "damage":10,
+        "health":60
       },
       {
         "id": 4,
@@ -82,7 +88,9 @@
         "type": "Crawler",
         "morality": "Chaotic-Neutral",
         "image": "http://www.avatarsinpixels.com/minipix/eyJDYXBlQmFjayI6IjIiLCJCb2R5IjoiMSIsIkV5ZXMiOiIyOCIsIlNvY2tzIjoiMSIsIkdsb3ZlcyI6IjQiLCJQYW50cyI6IjUiLCJUb3AiOiIxNiIsIkNhcGUiOiI1IiwiSGFpciI6IjQiLCJHbGFzc2VzIjoiMTAiLCJoYWlyVG9uZSI6ImY0ODliNiIsInBhbnRzVG9uZSI6ImVmMmYwMCIsInRvcFRvbmUiOiJlZjJmMDAiLCJzb2Nrc1RvbmUiOiJlZjJmMDAiLCJnbG92ZXNUb25lIjoiNDk2MmY5IiwiZ2xvdmVzVG9uZTIiOiI0OTYyZjkiLCJjYXBlVG9uZSI6IjQ5NjJmOSJ9/1/show.png",
-        "lore": "Nurtured beneath the watery wings of a raucous shrimp congregation for a span of sixteen lunar cycles, the Burger Queen imbibed the enigmatic wisdom of stoicism. This mysterious avenger, shrouded in caped mystique, has graced the annals of Brandtrun's history on countless occasions, with a conspicuous appearance etched most notably in the saga of the fateful 1986 Challenger's celestial explosion."
+        "lore": "Nurtured beneath the watery wings of a raucous shrimp congregation for a span of sixteen lunar cycles, the Burger Queen imbibed the enigmatic wisdom of stoicism. This mysterious avenger, shrouded in caped mystique, has graced the annals of Brandtrun's history on countless occasions, with a conspicuous appearance etched most notably in the saga of the fateful 1986 Challenger's celestial explosion.",
+        "damage":10,
+        "health":60
       },
       {
         "id": 5,
@@ -90,7 +98,9 @@
         "type": "Summoner",
         "morality": "Lawful-Evil",
         "image": "http://www.avatarsinpixels.com/minipix/eyJDYXBlQmFjayI6IjciLCJCb2R5IjoiMyIsIkV5ZXMiOiIxNyIsIk1vdXRoIjoiMTQiLCJTaG9lcyI6IjEiLCJHbG92ZXMiOiIxIiwiUGFudHMiOiIxIiwiVG9wIjoiMTMiLCJOZWNrIjoiMyIsIkhhaXIiOiIzMSIsInNraW5Ub25lIjoiZjRkNWMxIiwiZXllc1RvbmUiOiI0ZDdjMWUiLCJoYWlyVG9uZSI6ImYwZWY5MyIsInRvcFRvbmUiOiJmZmViYWIiLCJzaG9lc1RvbmUiOiJlZGVkZWQiLCJjYXBlVG9uZSI6IjUxMTUxNSIsImNhcGVUb25lMiI6ImVjMjQyNCJ9/1/show.png",
-        "lore": ""
+        "lore": "",
+        "damage":10,
+        "health":60
       },
       {
         "id": 6,
@@ -98,7 +108,9 @@
         "type": "Priestess",
         "morality": "Chaotic-Neutral",
         "image": "http://www.avatarsinpixels.com/minipix/eyJIYWlyTG93ZXIiOiI5IiwiQ2FwZUJhY2siOiIzIiwiQm9keSI6IjMiLCJFeWVzIjoiNyIsIk1vdXRoIjoiNCIsIlNob2VzIjoiNCIsIkdsb3ZlcyI6IjEiLCJQYW50cyI6IjUiLCJUb3AiOiI2IiwiQ2FwZSI6IjEiLCJIYWlyIjoiNiIsInNraW5Ub25lIjoiZjdjOWFiIiwiZXllc1RvbmUiOiI1MDgxMWYiLCJoYWlyVG9uZSI6ImE0NTkxOSIsInBhbnRzVG9uZSI6IjNiODM5ZCIsInRvcFRvbmUiOiIzYjgzOWQiLCJ0b3BUb25lMiI6ImViMmU3ZCIsImNhcGVUb25lIjoiZTZlNmU2IiwiY2FwZVRvbmUyIjoiZWIyZTdkIn0=/1/show.png",
-        "lore": ""
+        "lore": "",
+        "damage":10,
+        "health":60
       },
       {
         "id": 7,
@@ -106,7 +118,9 @@
         "type": "Gym Bro",
         "morality": "Gym Bro",
         "image": "http://www.avatarsinpixels.com/minipix/eyJIYWlyTG93ZXIiOiIxNSIsIkNhcGVCYWNrIjoiNiIsIkJvZHkiOiIxIiwiRXllcyI6IjIiLCJNb3V0aCI6IjQiLCJVbmRlcndlYXIiOiI2IiwiU2hvZXMiOiIyIiwiR2xvdmVzIjoiMyIsIlBhbnRzIjoiMSIsIlRvcCI6IjEzIiwiSmFja2V0IjoiNiIsIkhhaXIiOiIxNyIsImV5ZXNUb25lIjoiM2E4YzQ5IiwiaGFpclRvbmUiOiI1OTJmMGYiLCJ1bmRlcndlYXJUb25lIjoiMzg0YTdjIiwidW5kZXJ3ZWFyVG9uZTIiOiJiMDJkMzYiLCJwYW50c1RvbmUiOiI0NDQ0NDQiLCJ0b3BUb25lIjoiMzg0YTdjIiwid2luZ3NUb25lIjoiYWVhNWM3Iiwid2luZ3NUb25lMiI6ImRiZGQwMCIsInNob2VzVG9uZSI6IjM4NGE3YyIsImdsb3Zlc1RvbmUiOiIzODRhN2MiLCJjYXBlVG9uZTIiOiJiYWRiZWQiLCJqYWNrZXRUb25lIjoiYTA4NGU4IiwiamFja2V0VG9uZTIiOiJiYWRiZWQifQ==/1/show.png",
-        "lore": "A lifter of unbeign origins, most agree that he is 'Solid as stone, every hour, every day'..."
+        "lore": "A lifter of unbeign origins, most agree that he is 'Solid as stone, every hour, every day'...",
+        "damage":10,
+        "health":60
       },
       {
         "id": 8,
@@ -114,7 +128,9 @@
         "type": "???",
         "morality": "???",
         "image": "http://www.avatarsinpixels.com/minipix/eyJIYWlyTG93ZXIiOiI4IiwiQ2FwZUJhY2siOiIzIiwiQm9keSI6IjMiLCJFeWVzIjoiNSIsIk1vdXRoIjoiMTgiLCJTb2NrcyI6IjE0IiwiUGFudHMiOiIxIiwiQ2FwZSI6IjMiLCJIYWlyIjoiMSIsIkdsYXNzZXMiOiIxMSIsInNraW5Ub25lIjoiZDNjMmI3IiwiaGFpclRvbmUiOiI3MTcxNzEiLCJwYW50c1RvbmUiOiI0NDQ0NDQifQ==/1/show.png",
-        "lore": "Let it sleep."
+        "lore": "Let it sleep.",
+        "damage":10,
+        "health":60
       }
   ],
     "weapons": [
