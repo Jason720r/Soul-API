@@ -168,6 +168,13 @@
         "damage": 1000,
         "playerId": 3,
         "image": "none"
+      },
+      {
+        "id": 6,
+        "name": "Sirachad",
+        "damage": 100,
+        "playerId": null,
+        "image": "none"
       }
     ]
 }
