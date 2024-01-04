@@ -149,13 +149,6 @@
         "image": "none"
       },
       {
-        "id": 3,
-        "name": "Chi-Chi",
-        "damage": 700,
-        "playerId": 5,
-        "image": "none"
-      },
-      {
         "id": 4,
         "name": "MoonVeil Katana",
         "damage": 450,
