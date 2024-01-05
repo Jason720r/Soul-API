@@ -15,15 +15,8 @@
           "in_band": true,
           "link": "https://youtu.be/u3yTxfLxWZc?si=LgbeexY4a3m8L5IK",
           "image": "none"
-      },
-      {
-          "id": 3,
-          "title": "Take on Me",
-          "artist": "a-ha",
-          "in_band": false,
-          "link": "https://youtu.be/djV11Xbc914?si=cFV5gkRy-mgmJM7k",
-          "image": "none"
       }
+  
   ],
   "bosses": [
       {
