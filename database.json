@@ -42,7 +42,15 @@
           "health": 100000,
           "lore": "Brad was actually my kitchen knife turned into a sacred Relic, he's still really good at cutting bread",
           "image": "none"
-      }
+      },
+      {
+        "id": 4,
+        "title": "Ancient Sorcerer",
+        "type": "Crystal Sorcery",
+        "health": 1500,
+        "lore": "Sorcer of unknown origins, several witness accounts scattered throughout the ages prove this individual is one to be from a time log forgotten",
+        "image": "none"
+    }
   ],
     "players": [
       {
