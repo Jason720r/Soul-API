@@ -50,7 +50,15 @@
         "health": 1500,
         "lore": "Sorcer of unknown origins, several witness accounts scattered throughout the ages prove this individual is one to be from a time log forgotten",
         "image": "none"
-    }
+    },
+    {
+      "id": 5,
+      "title": "Wandering Shrieker",
+      "type": "Madness",
+      "health": 1100,
+      "lore": "Once a proud knight of the BatBrahm, he was corrupted by the madness of Zullie, becoming the beast he is today",
+      "image": "none"
+  }
   ],
     "players": [
       {
