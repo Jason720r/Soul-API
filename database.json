@@ -23,7 +23,15 @@
         "in_band": true,
         "link": "https://youtu.be/u3yTxfLxWZc?si=LgbeexY4a3m8L5IK",
         "image": "none"
-    }
+    },
+    {
+      "id": 4,
+      "title": "Stay",
+      "artist": "The Hails",
+      "in_band": true,
+      "link": "https://youtu.be/u3yTxfLxWZc?si=LgbeexY4a3m8L5IK",
+      "image": "none"
+  }
   
   ],
   "bosses": [
