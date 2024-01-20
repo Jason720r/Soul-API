@@ -31,7 +31,15 @@
       "in_band": true,
       "link": "https://youtu.be/u3yTxfLxWZc?si=LgbeexY4a3m8L5IK",
       "image": "none"
-  }
+  },
+  {
+    "id": 5,
+    "title": "Viva La Vida",
+    "artist": "ColdPlay",
+    "in_band": true,
+    "link": "https://youtu.be/u3yTxfLxWZc?si=LgbeexY4a3m8L5IK",
+    "image": "none"
+}
   
   ],
   "bosses": [
