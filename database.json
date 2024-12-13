@@ -164,6 +164,16 @@
         "lore": "Let it sleep.",
         "damage":10,
         "health":60
+      },
+      {
+        "id": 9,
+        "name": "Versie",
+        "type": "Of The BOOOOM",
+        "morality": "Neutral",
+        "image": "http://www.avatarsinpixels.com/minipix/eyJIYWlyTG93ZXIiOiIxNSIsIkNhcGVCYWNrIjoiNSIsIkV5ZXMiOiI3IiwiTW91dGgiOiI0IiwiVW5kZXJ3ZWFyIjoiMSIsIlNvY2tzIjoiNSIsIlBhbnRzIjoiNSIsIlRvcCI6IjE3IiwiSGFpciI6IjMxIiwic2tpblRvbmUiOiJlMWI4YjgiLCJleWVzVG9uZSI6IjIwODM2NSIsImhhaXJUb25lIjoiNGEyYTI2IiwidW5kZXJ3ZWFyVG9uZSI6IjQ0NDQ0NCIsInBhbnRzVG9uZSI6IjExMzE0MyIsInRvcFRvbmUiOiIwZjBmMGYiLCJzb2Nrc1RvbmUiOiIxMjEyMTIiLCJjYXBlVG9uZSI6IjExMzE0MyJ9/1/show.png",
+        "lore": "Mysterious, Suspicious, Good? Bad? Who knows....",
+        "damage":10,
+        "health":60
       }
   ],
     "weapons": [
